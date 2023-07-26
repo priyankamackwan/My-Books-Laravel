@@ -1,0 +1,12 @@
+.main-nav
+{
+    padding: 10px 10px 10px 30px;
+}
+.nav-links
+{
+    padding: 0px 20px 0px 0px;
+}
+#CurriculumcollapseOne div:hover
+{
+    background-color: #cbcbcb !important;
+}
